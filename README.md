@@ -1,8 +1,10 @@
 # Immich
 Immich | Tu GOOGLE FOTOS privado
 
-Documentación oficial usado en le vídeo:
+🧾 Documentación oficial usado en el vídeo:
 https://immich.app/docs/install/docker-compose/
+
+🎞️ Vídeo: https://youtu.be/d6ZXQkh1gXE
 
 Ficheros compose.yml y .env agregados
 
